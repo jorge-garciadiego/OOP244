@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MS1.dir/main.cpp.o CMakeFiles/MS1.dir/Menu.cpp.o CMakeFiles/MS1.dir/Utils.cpp.o  -o MS1 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/Documents/OOP/Project/MS1/Menu.cpp
+iostream
+-
+cstring
+-
+Menu.h
+/home/jorge/Documents/OOP/Project/MS1/Menu.h
+iomanip
+-
+
+/home/jorge/Documents/OOP/Project/MS1/Menu.h
+iostream
+-
+
+/home/jorge/Documents/OOP/Project/MS1/Utils.h
+
+/home/jorge/Documents/OOP/Project/MS1/main.cpp
+iostream
+-
+Utils.h
+/home/jorge/Documents/OOP/Project/MS1/Utils.h
+Menu.h
+/home/jorge/Documents/OOP/Project/MS1/Menu.h
+
